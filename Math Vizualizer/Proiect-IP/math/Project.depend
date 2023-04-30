@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1639352628 source:c:\users\40743\desktop\proiect math\project\main.cpp
+	<iostream>
+	<cstring>
+	<stack>
+	<queue>
+	<stdio.h>
+	<stdlib.h>
+	<graphics.h>
+

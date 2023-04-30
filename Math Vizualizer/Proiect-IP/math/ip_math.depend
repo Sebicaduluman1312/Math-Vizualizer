@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1642018806 source:d:\ip_math\main.cpp
+	<iostream>
+	<iomanip>
+	<cstring>
+	<limits.h>
+	<stack>
+	<queue>
+	<string>
+	<cmath>
+	<stdio.h>
+	<stdlib.h>
+	<graphics.h>
+
+1667162312 source:c:\users\avjiu\desktop\math\main.cpp
+	<iostream>
+	<iomanip>
+	<cstring>
+	<limits.h>
+	<stack>
+	<queue>
+	<string>
+	<cmath>
+	<stdio.h>
+	<stdlib.h>
+	<graphics.h>
+
+1667162312 source:c:\users\avjiu\desktop\math\rr.rc
+
